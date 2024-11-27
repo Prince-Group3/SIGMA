@@ -1,0 +1,40 @@
+body{
+    background: url(images2/image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.ph{
+    color: rgb(62, 62, 236);
+}
+
+.ph2{
+    color: palevioletred;
+}
+
+h1{
+    color: rgba(255, 255, 255, 0.815);
+}
+
+p{  
+    color: rgba(255, 255, 255, 0.815);
+    margin-left: 4%;
+}
+
+img{
+    float: right;
+    margin-left: 90px;
+    border-color: black;
+    border-style: solid;
+    background-color: black
+}
+
+.head{
+    margin-top: 9%;
+}
+
+div{
+    color: rgba(255, 255, 255, 0.815);
+}
